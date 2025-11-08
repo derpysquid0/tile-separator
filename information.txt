@@ -1,0 +1,8 @@
+HELLO!
+I am Derpy Squid and I made this program. 
+The goal of this program is to take your tileset or image and you provide your wanted tile size (pixels) and the space (pixels) you want in-between each tile.
+the reason why is uhh uhhh uhhh ummm because uhhh it uhh because someone said their tileset was ugly and they wanted a easy way to separate their tiles :).
+
+ENJOY!!
+
+(used py2exe to make this into an exe file)
